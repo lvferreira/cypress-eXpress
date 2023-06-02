@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 16 15:56:32 BRT 2023","Thu Feb 16 15:56:33 BRT 2023","1176","tasks","create","","","","should create a new task",""
+"passed","Thu Feb 16 15:56:33 BRT 2023","Thu Feb 16 15:56:34 BRT 2023","1020","tasks","create","","","","should not allow duplicate task",""
+"passed","Thu Feb 16 15:56:35 BRT 2023","Thu Feb 16 15:56:35 BRT 2023","399","tasks","update","","","","should delete a task",""
+"passed","Thu Feb 16 15:56:25 BRT 2023","Thu Feb 16 15:56:27 BRT 2023","1827","","home","","","","webapp should be online",""
+"passed","Thu Feb 16 15:56:35 BRT 2023","Thu Feb 16 15:56:35 BRT 2023","398","tasks","update","","","","should close a task",""
+"passed","Thu Feb 16 15:56:34 BRT 2023","Thu Feb 16 15:56:35 BRT 2023","333","tasks","create","","","","should validate required field",""

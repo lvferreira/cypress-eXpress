@@ -1,0 +1,21 @@
+Scenario #1
+	Dado que tenho um gerenciador de tarefas
+	Given I have a task manager
+
+	Quando crio uma nova tarefa
+	When I create a new task
+
+	Então deve ser exibida a tarefa criada
+	Then It should appear as a created task
+
+Scenario #2
+	Dado que tenho uma tarefa duplicada
+	Given I have a duplicate task
+
+	Quando faço o cadastro dessa tarefa
+	When I register this task
+
+	Então vejo a mensagem de duplicidade
+	Then I see a message of duplicity
+
+

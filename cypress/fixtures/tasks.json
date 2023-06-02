@@ -1,0 +1,10 @@
+{
+    "task": {
+        "name": "Read a node.js book",
+        "is_done": false
+    },
+    "dupe": {
+        "name": "Study JavaScript for beginners",
+        "is_done": false
+    }
+}
